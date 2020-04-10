@@ -24,4 +24,6 @@ public class Soma {
             JOptionPane.showMessageDialog(null, "Informe apenas números","Erro", JOptionPane.ERROR_MESSAGE);
         }
     }
+
+    //alteração Jordan
 }
